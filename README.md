@@ -79,8 +79,8 @@ CLIENT_URL=http://localhost:5173
 
 ## Live demo
 
-- Frontend: pending deployment
-- Backend: pending deployment
+- Frontend: https://client-beta-orcin-19.vercel.app
+- Backend: https://habitos-api-auep.onrender.com
 
 ## Screenshots
 
